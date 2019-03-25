@@ -1,3 +1,3 @@
 # project-face-generation
 
-generative adversarial networks to generate new images of faces from celebrity dataset
+Using generative adversarial networks to generate new images of faces where learning was done on celebrity dataset
